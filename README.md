@@ -50,7 +50,7 @@ Welcome to join me qq: 2439923973 for growth and exchange.
 
 
 
-<p align="right">
+<p align="left">
 <i>Last refresh</i>: <b>Friday, January 13nd, 2023, 3:14:00 PM</b>
 <!-- 
 
