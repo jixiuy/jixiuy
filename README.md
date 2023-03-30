@@ -3,7 +3,7 @@
 # 💫 About Me
 
 Hi, my name is JiangXiyu. 
-I'm a 19-year-old computer science and technology undergraduate from China.
+I'm a 20-year-old computer science and technology undergraduate from China.
 I am fascinated by Java, Kotlin, Android, Jetpack,  Flutter, Dart, computer network,Python , and AI.
 
 Learning computer knowledge, being able to use computer language to solve problems and help others grow together make me happy
