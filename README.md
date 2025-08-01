@@ -1,23 +1,13 @@
 <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 # 💫 About Me
+I'm a 22-year-old computer science and technology undergraduate from China.
+I am fascinated by Java, Kotlin, Android, Jetpack,  Flutter, Dart, computer network,Python , and AI
 
-Hi, my name is JiangXiyu. 
-I'm a 20-year-old computer science and technology undergraduate from China.
-I am fascinated by Java, Kotlin, Android, Jetpack,  Flutter, Dart, computer network,Python , and AI.
 
-Learning computer knowledge, being able to use computer language to solve problems and help others grow together make me happy
-
-Welcome to join me qq: 2439923973 for growth and exchange.
-
-- 🔥 **I am interested in Android development, and Flutter cross-platform development**
-- 🌱I’m currently learning ...
-  - Flutter cross-platform development
-  - computer network
-  - AI
 - 👯 I’m looking forward to collaborate on open source projects.
-- 📫 Reach out to me at [jxy2439923973@gmail.com](jxy2439923973@gmail.com)
-- 🏡 CSDN: [https://blog.csdn.net/qq_61735602?spm=1000.2115.3001.5343](https://blog.csdn.net/qq_61735602?spm=1000.2115.3001.5343)
+- 📫 Reach out to me at [email](jxy2439923973@gmail.com)
+- 🏡 [CSDN]([https://blog.csdn.net/qq_61735602?spm=1000.2115.3001.5343](https://blog.csdn.net/qq_61735602?type=edu))
 
 
 
