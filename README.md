@@ -1,7 +1,6 @@
 <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 # About Me
-- 👯 I’m looking forward to collaborate on open source projects.
 - 📫 Reach out to me at [email](jxy2439923973@gmail.com)
 - 🏡 Support my [Blog](https://blog.csdn.net/qq_61735602?type=edu)
 
