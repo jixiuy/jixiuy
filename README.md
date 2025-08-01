@@ -7,7 +7,7 @@
 
 
 
- ## Skill
+ # Skills
 
 <!-- <p align="center">
   <code>
