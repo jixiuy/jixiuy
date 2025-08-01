@@ -21,7 +21,7 @@
 <br/>
 <a target="_blank" align="center">
   <img align="left" width=250px height="250px"  style="margin-right:25px;" talt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" /> 
-**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
+𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:
 <br/>
 <br/>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
