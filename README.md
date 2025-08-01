@@ -1,13 +1,9 @@
 <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 # 💫 About Me
-I'm a 22-year-old computer science and technology undergraduate from China.
-I am fascinated by Java, Kotlin, Android, Jetpack,  Flutter, Dart, computer network,Python , and AI
-
-
 - 👯 I’m looking forward to collaborate on open source projects.
 - 📫 Reach out to me at [email](jxy2439923973@gmail.com)
-- 🏡 [CSDN]([https://blog.csdn.net/qq_61735602?spm=1000.2115.3001.5343](https://blog.csdn.net/qq_61735602?type=edu))
+- 🏡 [Blog](https://blog.csdn.net/qq_61735602?type=edu)
 
 
 
